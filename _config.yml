@@ -1,0 +1,9 @@
+title: StellarSub
+description: A SubscribeStar App for Android
+show_downloads: false
+google_analytics:
+mixpanel_analytics: true
+mixpanel_token: 8e778449839f10d0f2263ae11b23be67
+theme: jekyll-theme-slate
+github:
+  is_project_page: false
