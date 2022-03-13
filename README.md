@@ -10,7 +10,9 @@ An Android application for SubscribeStar.com
 
 # Releases
 
-Download latest beta release for Android - [StellarSub-0.1.0-beta5.apk](apks/StellarSub-0.1.0-beta5.apk)
+Download latest beta release for Android - [StellarSub-0.1.0-beta6.apk](apks/StellarSub-0.1.0-beta6.apk)
+
+Download beta release for Android - [StellarSub-0.1.0-beta5.apk](apks/StellarSub-0.1.0-beta5.apk)
 
 Download initial beta release for Android - [StellarSub-0.1.0-beta4.apk](apks/StellarSub-0.1.0-beta4.apk)
 
